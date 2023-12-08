@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5e6fedc2472449cead18ef23b5cb30d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Library:
+  - m_Name: LankyIdle
+    m_Hash: 314886960
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: LankyIdle
+      m_Hash: 314886960
+      m_Sprite: {fileID: 21300000, guid: 169a3305a841b9341a83637d02658e99, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 169a3305a841b9341a83637d02658e99, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: LankyWalk
+    m_Hash: 57738352
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: LankyWalk1
+      m_Hash: 324726671
+      m_Sprite: {fileID: 21300000, guid: 9de11aae3e431ed4896aa3f06f48e97b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 9de11aae3e431ed4896aa3f06f48e97b, type: 3}
+    - m_Name: LankyWalk2
+      m_Hash: 173260341
+      m_Sprite: {fileID: 21300000, guid: 70890d0f1a67c5e4590cf003b473d2b0, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 70890d0f1a67c5e4590cf003b473d2b0, type: 3}
+    - m_Name: LankyWalk3
+      m_Hash: 1028951715
+      m_Sprite: {fileID: 21300000, guid: 2eb4a51a16dce8141a49ff720e7871ff, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 2eb4a51a16dce8141a49ff720e7871ff, type: 3}
+    - m_Name: LankyWalk4
+      m_Hash: 590355200
+      m_Sprite: {fileID: 21300000, guid: c676bc2e0de735a4b8b80df1c581a2d4, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: c676bc2e0de735a4b8b80df1c581a2d4, type: 3}
+    - m_Name: LankyWalk5
+      m_Hash: 339159958
+      m_Sprite: {fileID: 21300000, guid: 2998cd14b2613694ebca20b2059c3aa0, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 2998cd14b2613694ebca20b2059c3aa0, type: 3}
+    - m_Name: LankyWalk6
+      m_Hash: 222198316
+      m_Sprite: {fileID: 21300000, guid: ae3f87812d7f9374abf90d606582ab91, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: ae3f87812d7f9374abf90d606582ab91, type: 3}
+    - m_Name: LankyWalk7
+      m_Hash: 976833210
+      m_Sprite: {fileID: 21300000, guid: 646d687dff8c3724da34a08aacd6875c, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 646d687dff8c3724da34a08aacd6875c, type: 3}
+    - m_Name: LankyWalk8
+      m_Hash: 713447211
+      m_Sprite: {fileID: 21300000, guid: 5099263d4e800b74c83890007bdd89b7, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 5099263d4e800b74c83890007bdd89b7, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  m_PrimaryLibraryGUID: 
+  m_ModificationHash: 638376691848510306
+  m_Version: 1
