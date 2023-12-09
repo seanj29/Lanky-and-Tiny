@@ -8,7 +8,7 @@ Open the project folder in unity 2022.3.6f1 (or higher)
 
 ## Guidlines
 
-Try to make a branch before you make any changes, then make a pull request from that branch. Commiting to main can main vc difficult.
+Try to make a branch before you make any changes, then make a pull request from that branch. Try to use squash when merging the pull request rather than just plain merge so it's easier to see when features are added
 
 Be nice? I think Idk this is my first project of this kind so try not to make it impossible for everyone here.
 
